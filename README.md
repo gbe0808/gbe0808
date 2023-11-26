@@ -1,2 +1,3 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gbe0808)](https://solved.ac/gbe0808)  
-[![sunwsong's 42 stats](https://badge42.vercel.app/api/v2/clj28d0dv000608mcdw54zllw/stats?cursusId=21&coalitionId=87)](https://github.com/JaeSeoKim/badge42)
+
+[![sunwsong's 42 stats](https://badge.mediaplus.ma/darkblue/sunwsong?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
